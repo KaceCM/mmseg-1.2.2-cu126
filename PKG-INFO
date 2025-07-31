@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: mmsegmentation
-Version: 1.2.2
+Version: 1.2.2.kace.v0.2
 Summary: Open MMLab Semantic Segmentation Toolbox and Benchmark
 Home-page: https://github.com/open-mmlab/mmsegmentation
-Author: MMSegmentation Contributors
-Author-email: openmmlab@gmail.com
+Author: MMSegmentation Contributors (edited by Morgan LE TREUST)
+Author-email: openmmlab@gmail.com (edited by morgan@letreust.fr)
 License: Apache License 2.0
 Description: <div align="center">
           <img src="resources/mmseg-logo.png" width="600"/>
